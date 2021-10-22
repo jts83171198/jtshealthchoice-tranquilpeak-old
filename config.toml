@@ -363,7 +363,7 @@ canonifyurls = true
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "jts83171198"
+      shortname = "jtshealthchoice"
     [params.comment.gitalk]
       enable = false
       # clientId =
