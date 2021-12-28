@@ -64,45 +64,45 @@ canonifyurls = true
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "首頁"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
   url = "/"
 [[menu.main]]
   weight = 2
   identifier = "categories"
-  name = "Categories"
+  name = "文章分類"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 3
   identifier = "tags"
-  name = "Tags"
+  name = "文章標籤"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-tags\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
   weight = 4
   identifier = "archives"
-  name = "Archives"
+  name = "所有文章"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-archive\" aria-hidden=\"true\"></i>"
   url = "/archives"
 [[menu.main]]
   weight = 5
   identifier = "product"
-  name = "Products"
+  name = "研選商品"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-store\" aria-hidden=\"true\"></i>"
   #url = "https://shopee.tw/htchou2395"
   url = "/products"
 [[menu.main]]
   weight = 6
   identifier = "about-us"
-  name = "About Us"
+  name = "關於我們"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   #url = "/#about"
   url = "/about"
 [[menu.main]]
   weight = 7
   identifier = "contact"
-  name = "Contact"
+  name = "聯絡我們"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-at\" aria-hidden=\"true\"></i>"
   url = "/contact"
 
