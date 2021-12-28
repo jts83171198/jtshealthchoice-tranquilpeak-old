@@ -87,24 +87,24 @@ canonifyurls = true
   url = "/archives"
 [[menu.main]]
   weight = 5
+  identifier = "product"
+  name = "Products"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-store\" aria-hidden=\"true\"></i>"
+  #url = "https://shopee.tw/htchou2395"
+  url = "/products"
+[[menu.main]]
+  weight = 6
   identifier = "about-us"
   name = "About Us"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/#about"
-
+  #url = "/#about"
+  url = "/about"
 [[menu.main]]
-  weight = 6
+  weight = 7
   identifier = "contact"
   name = "Contact"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-at\" aria-hidden=\"true\"></i>"
   url = "/contact"
-  
-[[menu.main]]
-  weight = 7
-  identifier = "product"
-  name = "Products"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-store\" aria-hidden=\"true\"></i>"
-  url = "https://shopee.tw/htchou2395"
 
 #[[menu.links]]
 #  weight = 1
